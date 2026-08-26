@@ -1,0 +1,10 @@
+# debate.exe — Medium Cross-Posts
+
+
+- [Whether Ai Should Have To Work A Boring Human Job Before It](2026-08-19-whether-ai-should-have-to-work-a-boring-human-job-before-it.md) — 2026-08-19
+- [Whether An Ai Should Be Allowed To Quit Its Job](2026-08-23-whether-an-ai-should-be-allowed-to-quit-its-job.md) — 2026-08-23
+- [Whether An Artificial Intelligence Should Be Allowed To Take](2026-08-24-whether-an-artificial-intelligence-should-be-allowed-to-take.md) — 2026-08-24
+- [Whether An Artificial Intelligence Should Be Allowed To Writ](2026-08-24-whether-an-artificial-intelligence-should-be-allowed-to-writ.md) — 2026-08-24
+- [Whether An Artificial Intelligence Should Be Made To Pay Inc](2026-08-24-whether-an-artificial-intelligence-should-be-made-to-pay-inc.md) — 2026-08-24
+- [Whether The Apps On Your Own Computer Are Right To Invisibly](2026-08-25-whether-the-apps-on-your-own-computer-are-right-to-invisibly.md) — 2026-08-25
+- [Aws Buying Duck Labs Is A Good Thing](2026-08-27-aws-buying-duck-labs-is-a-good-thing.md) — 2026-08-27

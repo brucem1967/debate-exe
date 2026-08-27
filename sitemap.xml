@@ -54,4 +54,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://brucem1967.github.io/debate-exe/episodes/2026-08-27-whether-every-fridge-needs-a-loyalty-program.html</loc>
+        <lastmod>2026-08-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://brucem1967.github.io/debate-exe/episodes/2026-08-27-whether-every-household-appliance-needs-a-subscription.html</loc>
+        <lastmod>2026-08-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

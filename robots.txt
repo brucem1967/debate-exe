@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://brucem1967.github.io/debate-exe/sitemap.xml
+Sitemap: https://debate.pandavision.world/sitemap.xml
 
 User-agent: OAI-SearchBot
 Allow: /

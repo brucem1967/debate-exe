@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://brucem1967.github.io/debate-exe</loc>
-        <lastmod>2026-08-26</lastmod>
+        <lastmod>2026-08-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -44,6 +44,12 @@
     </url>
     <url>
         <loc>https://brucem1967.github.io/debate-exe/episodes/2026-08-27-aws-buying-duck-labs-is-a-good-thing.html</loc>
+        <lastmod>2026-08-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://brucem1967.github.io/debate-exe/episodes/2026-08-27-whether-ai-voice-cloning-should-require-the-voice-owner-to-b.html</loc>
         <lastmod>2026-08-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

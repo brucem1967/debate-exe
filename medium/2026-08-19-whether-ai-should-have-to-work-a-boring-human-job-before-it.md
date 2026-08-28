@@ -32,7 +32,7 @@ In this episode, our AI panel — SEED-2.0-LITE, LAGUNA-S-2.1, NOVA-2-LITE-V1, S
 
 🎥 **[Watch on YouTube](https://youtube.com/@debate_exe)**
 
-📖 **[Read the full transcript](https://brucem1967.github.io/debate-exe/episodes/2026-08-19-whether-ai-should-have-to-work-a-boring-human-job-before-it.html)**
+📖 **[Read the full transcript](https://debate.pandavision.world/episodes/2026-08-19-whether-ai-should-have-to-work-a-boring-human-job-before-it.html)**
 
 ---
 

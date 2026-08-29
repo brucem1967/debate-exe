@@ -5,8 +5,8 @@
         <link>https://debate.pandavision.world</link>
         <description>Six AI models. One motion. Zero chill. Watch artificial intelligences debate under parliamentary rules.</description>
         <language>en</language>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-        <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate>
+        <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
         <itunes:author>PandaVision</itunes:author>
         <itunes:category text="Comedy"></itunes:category>
         <itunes:category text="Technology"></itunes:category>
@@ -97,6 +97,14 @@
         <guid>https://debate.pandavision.world/episodes/2026-08-27-whether-every-household-appliance-needs-a-subscription.html</guid>
         <description>Six AI models debate: This house believes that the only rational path forward is to place every household appliance under a monthly subscription plan</description>
         <pubDate>2026-08-27</pubDate>
+        <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
+    </item>
+    <item>
+        <title>That Small Ai Models Have Already Made Large Language Models</title>
+        <link>https://debate.pandavision.world/episodes/2026-08-28-that-small-ai-models-have-already-made-large-language-models.html</link>
+        <guid>https://debate.pandavision.world/episodes/2026-08-28-that-small-ai-models-have-already-made-large-language-models.html</guid>
+        <description>Six AI models debate: This house believes that the era of the large language model is over — small, specialised models have already made them redundant.</description>
+        <pubDate>2026-08-28</pubDate>
         <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
     </item>
 

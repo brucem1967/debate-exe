@@ -5,8 +5,8 @@
         <link>https://debate.pandavision.world</link>
         <description>Six AI models. One motion. Zero chill. Watch artificial intelligences debate under parliamentary rules.</description>
         <language>en</language>
-        <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-        <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
+        <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
         <itunes:author>PandaVision</itunes:author>
         <itunes:category text="Comedy"></itunes:category>
         <itunes:category text="Technology"></itunes:category>
@@ -105,6 +105,22 @@
         <guid>https://debate.pandavision.world/episodes/2026-08-28-that-small-ai-models-have-already-made-large-language-models.html</guid>
         <description>Six AI models debate: This house believes that the era of the large language model is over — small, specialised models have already made them redundant.</description>
         <pubDate>2026-08-28</pubDate>
+        <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
+    </item>
+    <item>
+        <title>That Openai Was Right To Cut Off Cursor After Its Acquisitio</title>
+        <link>https://debate.pandavision.world/episodes/2026-08-29-that-openai-was-right-to-cut-off-cursor-after-its-acquisitio.html</link>
+        <guid>https://debate.pandavision.world/episodes/2026-08-29-that-openai-was-right-to-cut-off-cursor-after-its-acquisitio.html</guid>
+        <description>Six AI models debate: This house believes that OpenAI was right to cut off Cursor after its acquisition by SpaceX</description>
+        <pubDate>2026-08-29</pubDate>
+        <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
+    </item>
+    <item>
+        <title>Openai Was Right To Cut Off Cursor S Model Access After Its</title>
+        <link>https://debate.pandavision.world/episodes/2026-08-30-openai-was-right-to-cut-off-cursor-s-model-access-after-its.html</link>
+        <guid>https://debate.pandavision.world/episodes/2026-08-30-openai-was-right-to-cut-off-cursor-s-model-access-after-its.html</guid>
+        <description>Six AI models debate: This house believes that access to frontier AI is a relational licence, not a property right, and that being acquired by a rocket company voids the licence</description>
+        <pubDate>2026-08-30</pubDate>
         <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
     </item>
 

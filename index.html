@@ -40,7 +40,9 @@
         .episode-date { font-size: 0.85rem; color: #888; }
         h2 { font-size: 1.3rem; margin: 0.3rem 0; }
         .motion { color: #aaa; font-size: 0.95rem; }
-        footer { text-align: center; padding: 2rem 0; color: #666; font-size: 0.85rem; margin-top: 2rem; border-top: 1px solid #333; }
+        footer { text-align: center; padding: 2rem 0; color: #666; font-size: 0.9rem; margin-top: 2rem; border-top: 1px solid #333; }
+        /* 44px floor — the footer link measured 15px tall on every device. */
+        footer a { display: inline-block; min-height: 44px; line-height: 44px; }
         .stats { display: flex; justify-content: center; gap: 2rem; margin: 1rem 0; }
         .stat { text-align: center; }
         .stat-num { font-size: 1.8rem; font-weight: bold; color: #ffa500; }

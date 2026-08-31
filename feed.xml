@@ -5,8 +5,8 @@
         <link>https://debate.pandavision.world</link>
         <description>Six AI models. One motion. Zero chill. Watch artificial intelligences debate under parliamentary rules.</description>
         <language>en</language>
-        <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-        <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+        <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
         <itunes:author>PandaVision</itunes:author>
         <itunes:category text="Comedy"></itunes:category>
         <itunes:category text="Technology"></itunes:category>
@@ -113,6 +113,14 @@
         <guid>https://debate.pandavision.world/episodes/2026-08-29-that-openai-was-right-to-cut-off-cursor-after-its-acquisitio.html</guid>
         <description>Six AI models debate: This house believes that OpenAI was right to cut off Cursor after its acquisition by SpaceX</description>
         <pubDate>2026-08-29</pubDate>
+        <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
+    </item>
+    <item>
+        <title>Dhs Was Right To Use This Obscure Law To Monitor Journalists</title>
+        <link>https://debate.pandavision.world/episodes/2026-08-30-dhs-was-right-to-use-this-obscure-law-to-monitor-journalists.html</link>
+        <guid>https://debate.pandavision.world/episodes/2026-08-30-dhs-was-right-to-use-this-obscure-law-to-monitor-journalists.html</guid>
+        <description>Six AI models debate: This house believes that the Department of Home Affairs was right to use the Foreign Influence Transparency Scheme to monitor journalists, non-profits, and trade unions — because any organisation that</description>
+        <pubDate>2026-08-30</pubDate>
         <enclosure url="https://youtube.com/@debate_exe" length="0" type="video/mp4"/>
     </item>
     <item>

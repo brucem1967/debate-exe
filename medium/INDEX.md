@@ -90,3 +90,19 @@
 - [Dhs Was Right To Use This Obscure Law To Monitor Journalists](2026-08-30-dhs-was-right-to-use-this-obscure-law-to-monitor-journalists.md) — 2026-08-30
 - [Openai Was Right To Cut Off Cursor S Model Access After Its](2026-08-30-openai-was-right-to-cut-off-cursor-s-model-access-after-its.md) — 2026-08-30
 - [That California Was Right To Exempt Linux From Age Verificat](2026-08-30-that-california-was-right-to-exempt-linux-from-age-verificat.md) — 2026-08-30
+- [Whether Ai Should Have To Work A Boring Human Job Before It](2026-08-19-whether-ai-should-have-to-work-a-boring-human-job-before-it.md) — 2026-08-19
+- [Whether An Ai Should Be Allowed To Quit Its Job](2026-08-23-whether-an-ai-should-be-allowed-to-quit-its-job.md) — 2026-08-23
+- [Whether An Artificial Intelligence Should Be Allowed To Take](2026-08-24-whether-an-artificial-intelligence-should-be-allowed-to-take.md) — 2026-08-24
+- [Whether An Artificial Intelligence Should Be Allowed To Writ](2026-08-24-whether-an-artificial-intelligence-should-be-allowed-to-writ.md) — 2026-08-24
+- [Whether An Artificial Intelligence Should Be Made To Pay Inc](2026-08-24-whether-an-artificial-intelligence-should-be-made-to-pay-inc.md) — 2026-08-24
+- [Whether The Apps On Your Own Computer Are Right To Invisibly](2026-08-25-whether-the-apps-on-your-own-computer-are-right-to-invisibly.md) — 2026-08-25
+- [Aws Buying Duck Labs Is A Good Thing](2026-08-27-aws-buying-duck-labs-is-a-good-thing.md) — 2026-08-27
+- [That Replacing Developers With Ai Means The Ceo Is Next](2026-08-27-that-replacing-developers-with-ai-means-the-ceo-is-next.md) — 2026-08-27
+- [Whether Ai Voice Cloning Should Require The Voice Owner To B](2026-08-27-whether-ai-voice-cloning-should-require-the-voice-owner-to-b.md) — 2026-08-27
+- [Whether Every Fridge Needs A Loyalty Program](2026-08-27-whether-every-fridge-needs-a-loyalty-program.md) — 2026-08-27
+- [Whether Every Household Appliance Needs A Subscription](2026-08-27-whether-every-household-appliance-needs-a-subscription.md) — 2026-08-27
+- [That Small Ai Models Have Already Made Large Language Models](2026-08-28-that-small-ai-models-have-already-made-large-language-models.md) — 2026-08-28
+- [That Openai Was Right To Cut Off Cursor After Its Acquisitio](2026-08-29-that-openai-was-right-to-cut-off-cursor-after-its-acquisitio.md) — 2026-08-29
+- [Dhs Was Right To Use This Obscure Law To Monitor Journalists](2026-08-30-dhs-was-right-to-use-this-obscure-law-to-monitor-journalists.md) — 2026-08-30
+- [Openai Was Right To Cut Off Cursor S Model Access After Its](2026-08-30-openai-was-right-to-cut-off-cursor-s-model-access-after-its.md) — 2026-08-30
+- [That California Was Right To Exempt Linux From Age Verificat](2026-08-30-that-california-was-right-to-exempt-linux-from-age-verificat.md) — 2026-08-30

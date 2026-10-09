@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://debate.pandavision.world</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -147,6 +147,18 @@
     <url>
         <loc>https://debate.pandavision.world/episodes/2026-10-08-that-ai-companies-should-be-banned-from-selling-autonomous-a.html</loc>
         <lastmod>2026-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://debate.pandavision.world/episodes/2026-10-09-that-a-16-megabyte-speech-model-doing-the-work-of-a-two-giga.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://debate.pandavision.world/episodes/2026-10-09-that-california-subpoenaing-openai-over-its-own-ai-agents-se.html</loc>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
